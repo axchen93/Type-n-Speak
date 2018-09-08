@@ -1,0 +1,23 @@
+{
+  "name": "type-n-speak",
+  "version": "1.0.0",
+  "description": "type to speak app",
+  "main": "index.js",
+  "homepage":"https://axchen93.github.io/Type_n_Speak",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axchen93/Type-n-Speak.git"
+  },
+  "author": "Alex Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axchen93/Type-n-Speak/issues"
+  }
+}

@@ -2,7 +2,7 @@
   "name": "type-n-speak",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage":"https://axchen93.github.io/Type_n_Speak",
+  "homepage":"https://axchen93.github.io/Type-n-Speak",
   "dependencies": {
     "gh-pages": "^1.2.0"
   },

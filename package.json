@@ -10,10 +10,6 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/axchen93/Type-n-Speak.git"
-  },
   "author": "Alex Chen",
   "license": "MIT"
 }
